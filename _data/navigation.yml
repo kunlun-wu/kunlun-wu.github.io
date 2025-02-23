@@ -10,7 +10,7 @@ main:
     url: /files/cv.pdf
 
   - title: "Research"
-    url: /projects/
+    url: /research/
 
   - title: "Art Portfolio"
     url: /portfolio/

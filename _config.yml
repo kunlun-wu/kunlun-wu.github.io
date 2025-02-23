@@ -28,7 +28,7 @@ author:
   bio              : "MS & BS in Materials Science and Engineering at Columbia University <br>
                       BA in Physics & Japanese at Colgate University"
 
-  location         : "New York"
+  location         : "New York, NY"
   employer         :
   uri              : # URL
   email            : "kw3037@columbia.edu"
@@ -227,6 +227,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -284,6 +287,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+        layout: single
+        author_profile: true
+        share: true
+        comments: true
 
 
 # Sass/SCSS
