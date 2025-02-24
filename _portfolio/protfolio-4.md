@@ -11,4 +11,4 @@ Guqin is one of the oldest Chinese musical instruments. It is a seven-stringed z
 
 <a href="https://www.youtube.com/playlist?list=PL6xlKDYX7uzdsPRcp0RmjAQHohdel_ypQ" target="_blank">Garage Band Demos</a>
 ---
-This is a playlist of some demos I made using Garage Band. I am not professional by any means, but I enjoy playing with music software and creating some simple tunes.
+Some simple tunes produced using Garage Band.
