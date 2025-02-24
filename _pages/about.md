@@ -9,10 +9,6 @@ redirect_from:
 
 Welcome to my website. I am a master’s student in Materials Science and Engineering at Columbia University, doing research under the guidance of Professor [Nanfang Yu](https://www.apam.columbia.edu/faculty/nanfang-yu). I earned my BS in Materials Science and Engineering from Columbia (2022-2024) and my BA in Physics and Japanese from Colgate University (2019-2024). I also gained industry experience as an assistant investment manager intern at Oriental Fortune Capital in 2023, where I focused on market research and investment analysis. 
 
-My research work includes:
-1. Low temperature conductivity of copper-doped nanoceria, where engineering its sensitivity and selectivity in gas sensor application enables non-invasive health monitoring for elevated acetone levels in breath associated with conditions like diabetic ketoacidosis.
-1. Modifying the refractive index of thin films, where thin, flat, transparent, and flexible optical films are created for applications such as AR/VR lenses, microphotonic resonators, etc.
-
 I am drawn to materials science because of its potential to harness research insights for building tangible creations across various disciplines. Consequently, my interests extend to a variety of topics, so this site is not solely dedicated to engineering. I built this site to provide access to my CV and some of my works. Thanks for stopping by.
 
 ----------------------------------------

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kunlun Wu's Homepage"
+title                    : "Kunlun's Homepage"
 title_separator          : "-"
 name                     : &name "Kunlun Wu"
 description              : &description "Kunlun Wu's personal site"
