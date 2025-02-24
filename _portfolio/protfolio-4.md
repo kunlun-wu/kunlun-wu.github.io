@@ -1,7 +1,14 @@
 ---
 title: "Music"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Some Recordings and Demos saved as Playlists on Youtube <br/><img src='/images/music-pic.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<a href="https://www.youtube.com/playlist?list=PL6xlKDYX7uzcI3C_kUd518Oq6ezorKuDg" target="_blank">Guqin Recordings</a>
+---
+![Guqin](/images/guqin.png)
+Guqin is one of the oldest Chinese musical instruments. It is a seven-stringed zither without bridges, the form of which has been settled and maintained since the Tang Dynasty.
+
+<a href="https://www.youtube.com/playlist?list=PL6xlKDYX7uzdsPRcp0RmjAQHohdel_ypQ" target="_blank">Garage Band Demos</a>
+---
+This is a playlist of some demos I made using Garage Band. I am not professional by any means, but I enjoy playing with music software and creating some simple tunes.
