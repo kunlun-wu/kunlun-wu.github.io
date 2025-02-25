@@ -1,7 +1,12 @@
 ---
 title: "Seals"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "<img src='/images/seal-pic.jpg'>"
 collection: portfolio
 ---
+![Seals](/images/seals/seal1.jpg){: .align-bottom, width="300px"}<br/>
+![Seals](/images/seals/seal2.jpg){: .align-bottom, width="300px"}<br/>
+![Seals](/images/seals/seal3.jpg){: .align-bottom, width="300px"}<br/>
+![Seals](/images/seals/seal4.jpg){: .align-bottom, width="300px"}<br/>
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![Seals](/images/seals/seal5.jpg){: .align-bottom}
+
