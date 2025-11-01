@@ -15,8 +15,8 @@ main:
   - title: "Art Portfolio"
     url: /portfolio/
 
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
     
 #  - title: "Guide"
 #    url: /markdown/
