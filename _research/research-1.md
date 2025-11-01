@@ -10,4 +10,4 @@ excerpt: |
 
 collection: research
 ---
-hello
+I was fortunate to work with Professor Siu-Wai Chan and Xinyi Ma on this project throughout my senior year and into my master's studies. I was fortunate to receive many help from people such as Professor Simon Billinge, Dr. Adrian Chitu, the pellet pressing were done mostly at Lamont-Doherty Earth Observatory, many thanks to Professor David Walker and Supervisor Echo Shuo. 
