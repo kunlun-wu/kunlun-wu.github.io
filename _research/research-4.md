@@ -12,6 +12,8 @@ excerpt: |
   
 collection: research
 ---
+- **Quantitative data withheld pending publication; qualitative trends summarized**
+
 This project was conducted in collaboration with Cheng-Chia Tsai under the supervision of Professor [Nanfang Yu](https://www.apam.columbia.edu/faculty/nanfang-yu). It builds upon my previous project ([Refractive Index Enhancement of Polymer Thin Film using CeO₂ Nanoparticles](https://kunlun-wu.github.io/research/research-2/)), extending the approach from nanoparticle doping to metal-ion incorporation as an alternative pathway for optical tuning. The goal is to enhance the refractive index of SU-8 polymer films through solution-based doping for flexible, high-index thin-film applications in photonics and optical coatings.
 
 The motivation for this project stems from the challenges encountered in achieving uniform nanoparticle dispersion within the polymer matrix, which can lead to film inhomogeneity and optical scattering. Metal-ion doping offers a potentially simpler and more controllable approach to modifying the optical properties of the polymer without the complications associated with nanoparticle aggregation.

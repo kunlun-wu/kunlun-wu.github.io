@@ -10,6 +10,8 @@ excerpt: |
 
 collection: research
 ---
+- **Quantitative data withheld pending publication; qualitative trends summarized**
+
 I was fortunate to work with Professor Siu-Wai Chan and Xinyi Ma on this project during my senior year and continuing into my master’s studies. I am also grateful for the guidance and support of Professor Simon Billinge and Dr. Adrian Chitu. The pellet pressing was carried out primarily at the Lamont–Doherty Earth Observatory, and I thank Professor David Walker and Supervisor Echo Shuo for their generous assistance.
 
 The growing demand for functional nanomaterials in energy conversion and sensing has motivated extensive efforts to tailor their electrical behavior through controlled defect and dopant engineering. [Previous studies](https://www.sciencedirect.com/science/article/abs/pii/S0920586111006705) from our group on copper-doped nanoceria demonstrated that samples with approximately 8 % Cu exhibited the most favorable catalytic performance at 150-250°C, although the underlying mechanism remained unclear. The present work seeks to provide insight into the charge-transport processes that may contribute to this behavior.
@@ -81,7 +83,7 @@ The heating program performed is as follows:
 
 Impedance Spectroscopy
 -------------------------------
-Impedance spectroscopy was performed using an AMETEK SI 1200 impedance spectrometer. We made a faraday cage shielding for the furnace to reduce noise. A cardboard box with foam inside was used to further insulate the furnace when performing measurements.
+Impedance spectroscopy was performed using an AMETEK SI 1200 impedance spectrometer. The furnace had an improvised faraday cage shielding to reduce noise. A cardboard box with foam inside was used to further insulate the furnace when performing measurements.
 <img src='/images/research/1nanoceria/9.jpg'>
 ### Set Up
 1. Place the sample into the box furnace on top a piece of porous ceramic material
@@ -91,4 +93,4 @@ Impedance spectroscopy was performed using an AMETEK SI 1200 impedance spectrome
 5. Turn on the furnace, set the Temp dial to 2.5 times the desired temperature
 
 ### Measurement and Data
-Measurements were taken at 50°C intervals from 50°C to 200°C for samples of 0%, 1%, 2%, 4%, 8%, 16% copper doping concentrations from 1MHz to 1Hz, with 5 loops each. The data is collected via SMaRT EIS software and analyzed through ZView EIS visualization and equivalent circuit fitting software. The processed data are then supported with X-ray diffraction and pair distribution function structural analysis. The data indicate enhanced conductivity compared to undoped ceria, consistent with thermally activated small-polaron hopping. **Detailed analysis and modeling results are under review for publication; and therefore are not disclosed here yet.**
+We collected EIS spectra from 1 MHz to 1 Hz with five loops per sweep, at 50 °C intervals between 50 and 200 °C, for 0–16 % Cu-doped samples (0, 1, 2, 4, 8, 16 %). Data were captured using SMaRT EIS and fitted in ZView with equivalent-circuit models; XRD and PDF analyses were used to interpret structural features. Together, these measurements indicate conductivity enhancement versus undoped ceria and behavior consistent with thermally activated small-polaron hopping. **Quantitative values and model details are included in an in-review manuscript and will be added here following publication.**
