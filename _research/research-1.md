@@ -30,7 +30,6 @@ The nanoparticle samples were synthesized via coprecipitation at room temperatur
 4. Combine the contents of each beaker in and stir for **30** **minutes**
 5. Move the mixture to a **40°C** water bath and stir for **3 hours**
 6. Remove the mixture from the water bath and stir for **18 hours**
-7. Dry the beaker, cover with aluminum foil, and refrigerate to stop the growth of particles
 <img src='/images/research/1nanoceria/2.png'>
 
 ### Centrifugation and Drying
@@ -41,20 +40,17 @@ The dried samples were then ground into fine powders using mortar and pestle.
 ### Pellet Pressing
 The powders were pressed into pellets using a Enerpac hydraulic press at Lamont–Doherty Earth Observatory under the guidance of Professor David Walker and Supervisor Echo Shuo.
 <img src='/images/research/1nanoceria/5.png' width="40%">
-1. Place the silver housing firmly onto the black housing
-2. Insert the first small cylinder into the chamber
-3. Deposit **0.170g** of powder into the chamber.
-4. Insert the second small cylinder and the long cylinder into the chamber
-5. Tap the die on a flat surface again to ensure that the powder has uniform thickness
-6. Bring the die to the ENERAC (oil-based hydraulic pump and press). Align the die center with the hydraulic press arm.
-7. Turn the oil valve to the closed position. 
-8. Lower the hydraulic arm until it is touching the sample and incrementally increase the pressure to **5000psi**
-9. Wait until the pressure drops to around **2000-3000psi** (roughly 20-25 minutes).
-10. **Slowly release the pressure** using the valve until the hydraulic arm lifts from the die 
-11. Turn the die upside down and place a small acrylic shield around the black housing for pushing out the central cylinders.
-12. **Lower the hydraulic arm carefully** until the silver housing **barely makes contact with the press stage**
-13. Remove the small cylinder that is now fully exposed and **carefully remove the pellet** 
-14. Disassemble and thoroughly clean all parts of the die with a Kimwipe and isopropyl alcohol
+1. Place the silver housing firmly onto the black housing, and insert the first small cylinder into the chamber 
+2. Deposit **0.170g** of powder into the chamber. 
+3. Insert the second small cylinder and the long cylinder into the chamber 
+4. Bring die to the press, turn the oil valve to the closed position. 
+5. Lower the hydraulic arm until it is touching the sample and incrementally increase the pressure to **5000psi**
+6. Wait until the pressure drops to around **2000-3000psi** (roughly 20-25 minutes).
+7. **Slowly release the pressure** using the valve until the hydraulic arm lifts from the die 
+8. Turn the die upside down and place a small acrylic shield around the black housing for pushing out the central cylinders.
+9. **Lower the hydraulic arm carefully** until the silver housing **barely makes contact with the press stage**
+10. Remove the small cylinder that is now fully exposed and **carefully remove the pellet**
+11. Disassemble and thoroughly clean all parts of the die with a Kimwipe and isopropyl alcohol
 <img src='/images/research/1nanoceria/4.png'>
 
 ### Sintering
@@ -79,13 +75,13 @@ The heating program performed is as follows:
 7. Paint the other side of the pellet
 8. Dry for **2 hours**
 9. Attach the painted ends of the wires to the surface of the pellet and the end of the conductive track using dabs of silver paste.
-10. Dry for **2 hours**
+10. Dry for **24 hours**
 
 <img src='/images/research/1nanoceria/7.jpg'>
 
 Impedance Spectroscopy
 -------------------------------
-Impedance spectroscopy was performed using an AMETEK SI 1200 impedance spectrometer. The furnace box was had a DIY faraday cage shielding to reduce noise. A cardboard box with foam inside was used to further insulate the furnace when performing measurements.
+Impedance spectroscopy was performed using an AMETEK SI 1200 impedance spectrometer. We made a faraday cage shielding for the furnace to reduce noise. A cardboard box with foam inside was used to further insulate the furnace when performing measurements.
 <img src='/images/research/1nanoceria/9.jpg'>
 ### Set Up
 1. Place the sample into the box furnace on top a piece of porous ceramic material

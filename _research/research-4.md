@@ -20,7 +20,7 @@ Sample Preparation
 -------------------------------
 The metal-ion doped SU-8 thin films were fabricated using a solution-based approach. Instead of incorporating nanoparticles, metal salts were directly dissolved into the SU-8 precursor solution to achieve doping with cerium (Ce), copper (Cu), and titanium (Ti) ions.
    - The precursors were spin-coated onto cleaned silicon substrates using a rotor controlled with an Arduino.
-   - The exposure chamber was made with cardboard and a **50W** everbeam at **365nm** wavelength, with a power density measured at **26mW/cm²** using a UV power meter.
+   - The exposure chamber was made with a **50W** everbeam at **365nm** wavelength, with a power density measured at **26mW/cm²** using a UV power meter.
 <img src='/images/research/2thinfilmnano/3.png'> 
 
 ### For cerium nitrate (Ce(NO₃)₃·6H₂O) and copper nitrate (Cu(NO₃)₂·3H₂O)

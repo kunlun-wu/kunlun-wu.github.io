@@ -26,13 +26,12 @@ The nanoparticle samples were synthesized via coprecipitation at room temperatur
 1. Dissolve the cerium nitrate and HMT in separate beakers, each containing **400mL** deionized water.
 2. Stir both beakers for **30** **minutes** 
 3. Combine the contents of each beaker in and stir for **any number of minutes** (in this project we tried **6-hour** samples and **72-hour** samples)
-4. Dry the beaker, cover with aluminum foil, and refrigerate to stop the growth of particles
 
 ### Centrifugation and Drying
 - The procedure is the same as described in [Low Temperature Conductivity and Structural Analysis of Cu-CeO₂ Nanoparticles](https://kunlun-wu.github.io/research/research-1/), we also tried copper-doped nanoceria samples left this project (**2%** and **16%** Cu-CeO₂).
 
 ### Nanoparticle Size Characterization
-- Dynamic Light Scattering (DLS) was first attempted, but the results were inconclusive due to the high polydispersity of the samples from nanoparticle clustering, and I forgot to take pictures :disappointed_relieved:.
+- Dynamic Light Scattering (DLS) was first attempted, but the results were inconclusive due to the high polydispersity of the samples from nanoparticle clustering.
 - Scanning Electron Microscopy (SEM) imaging was then performed using a Zeiss Sigma VP SEM. The samples were prepared by drop-casting a dilute nanoparticle suspension onto silicon wafers and allowing them to dry under ambient conditions.
 <img src='/images/research/2thinfilmnano/5.png'>
 <img src='/images/research/2thinfilmnano/6.png'>
@@ -40,12 +39,12 @@ The nanoparticle samples were synthesized via coprecipitation at room temperatur
 ### Nanocomposite Thin Film Fabrication
 1. Precursor Preparation 
    - The SU-8 polymer matrix was prepared by diluting SU-8 with the thinner to achieve a viscosity suitable for spin coating. The synthesized CeO₂ nanoparticles were dispersed in the SU-8 solution at varying weight percentages (**0%**, **0.1%**, **0.5%**, and **1%**) using ultrasonication to ensure uniform distribution. 
-   - A DIY cooling container with ice packs was used to maintain a low temperature during sonication, minimizing solvent evaporation, preventing early cross-linking of polymer, and promoting uniform film formation.
+   - A cooling container was made with ice packs was used to maintain a low temperature during sonication, minimizing solvent evaporation, preventing early cross-linking of polymer, and promoting uniform film formation.
 <img src='/images/research/2thinfilmnano/2.png'>
 
 2. Spin Coating
    - The nanocomposite solutions were spin-coated onto cleaned silicon substrates using a rotor controlled with an Arduino.
-   - The exposure chamber was made with cardboard and a **50W** everbeam at **365nm** wavelength, with a power density measured at **26mW/cm²** using a UV power meter.
+   - The exposure chamber was made with a **50W** everbeam at **365nm** wavelength, with a power density measured at **26mW/cm²** using a UV power meter.
 <img src='/images/research/2thinfilmnano/3.png'> 
 
    1. Spin coat at 100% speed (**6000rpm**) for **30 seconds** to achieve thin films of approximately **800nm** in thickness.
