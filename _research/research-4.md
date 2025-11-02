@@ -1,7 +1,7 @@
 ---
 title: "Refractive Index Enhancement of Polymer Thin Film using Ce, Cu, and Ti Ions"
 excerpt: |
-  <p style="margin-bottom:0; font-size:15px; color:#808080;">May 2024 - Present, Paper in progress</p>
+  <p style="margin-bottom:0; font-size:15px; color:#808080;">May 2024 - Present, Manuscript in preparation</p>
   <p style="margin-top:0; font-size:15px; color:#505050;">Under guidance of Professor <a href="https://www.apam.columbia.edu/faculty/nanfang-yu">Nanfang Yu</a>, Columbia University, NY</p>
   
   <img src='/images/research/4thinfilmion/1.jpg' width="30%" align="right" style="margin-left:20px">
